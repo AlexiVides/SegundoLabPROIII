@@ -1,0 +1,8 @@
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\bin\Debug\SegundoLab.exe.config
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\bin\Debug\SegundoLab.exe
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\bin\Debug\SegundoLab.pdb
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\obj\Debug\SegundoLab.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\obj\Debug\SegundoLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\obj\Debug\SegundoLab.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\obj\Debug\SegundoLab.exe
+C:\Users\alexi\Documents\Ciclo V\PROGRA II\SegundoLab\SegundoLab\obj\Debug\SegundoLab.pdb
