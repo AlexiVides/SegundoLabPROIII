@@ -9,6 +9,8 @@ namespace SegundoLab
     {
         static void Main(string[] args)
         {
+            
+
             List<Usuarios> list = new List<Usuarios>();
 
             Usuarios usuarios = new Usuarios();
@@ -60,6 +62,10 @@ namespace SegundoLab
             while (a == 1)
             {
                 Console.Clear();
+                Console.WriteLine("Usuarios admin");
+                Console.WriteLine("Nestor, Alexi");
+                Console.WriteLine("Usuarios Empleado");
+                Console.WriteLine("Adiel, Rocio");
                 Console.WriteLine("-----------------------------");
                 Console.WriteLine("Ingrese el nombre del Usuario");
                 Console.WriteLine("-----------------------------");
